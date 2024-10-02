@@ -1,0 +1,45 @@
+/* Stili di base per il corpo */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+    padding: 100px 0;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 50px 0 20px;
+}
+
+p {
+    font-size: 1.2rem;
+    margin: 20px auto;
+    width: 60%;
+}
+
+footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+}
+
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
